@@ -2,6 +2,8 @@ const chalk = require('chalk')
 const yargs = require('yargs')
 const getNotes = require('./notes.js')
 
+// add functionality for addnote and remove note to notes.js
+
 // Customize yargs
 yargs.version('1.1.0')
 
